@@ -50,3 +50,12 @@ The overall goal of this project is to help predict different ways to help with 
 
 ![CORRRRR](https://user-images.githubusercontent.com/97055926/156484490-3deb168c-81d9-47e5-9a6c-71bd0ad1f596.png)
 
+
+
+
+
+
+
+
+
+![BARPLOT5](https://user-images.githubusercontent.com/97055926/156646870-98190e28-1c29-4aaf-8c86-656011d94edc.png)
