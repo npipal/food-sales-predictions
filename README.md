@@ -4,7 +4,7 @@ The food sales prediction project consisted of using Python to build predictive 
 
 The different models that were used to review this information were a Linear Regression Model, and a Simple Decision Tree Model. Between those two models the one that performed the best was the Simple Decision Tree Model. At first glance when finding the r2 values it was 1.0 training score, and 0.19 testing score. But after manipulating the hyperparamters and finding out the best score for this model would be at a max depth of 5 there is a night and day difference. After setting the hyperparamters to a max depth of 5, there is a training score of 60% and a testing score of 59%. Although there is a slight difference between the training and testing scores, the training score for the r2 value is slightly higher than the testing score which means that the data was not overfit. The RMSE training score was 1.607 and for testing was 1488. 
 
-The overall goal of this project is to help predict different ways to help with Outlet Sales. The recommendation is to focus on Item MRP, and Item Visibility to help increase Outlet Sales. For instance, having more attention and focus on specific items that have a low visibility but higher sales should be the main focus so you are able to fit more items on shelves. 
+The overall goal of this project is to help predict different ways to help with Outlet Sales. The recommendation is to focus on Item MRP, and Item Visibility, Outlet Type,  Outlet Size, and Item Type to help increase Outlet Sales. For instance, having more attention and focus on specific items that have a low visibility but higher sales should be the main focus so you are able to fit more items on shelves. 
 
 
 
